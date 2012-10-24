@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file alias="MainProgramPicture">Resources/puzzle.png</file>
+        <file alias="Delete">Resources/delete.png</file>
+    </qresource>
+</RCC>
